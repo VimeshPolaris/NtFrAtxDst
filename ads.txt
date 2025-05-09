@@ -7,7 +7,7 @@
       "id": 45,
       "name": "NightFriend - Atxdst - Android",
       "secret_key": "14a3398d739bc124118b04c8c5803b20",
-      "is_facebook": 1,
+      "is_facebook": 0,
       "is_adx": 1,
       "is_admob": 0,
       "status": 1,
