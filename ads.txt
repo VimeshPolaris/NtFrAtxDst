@@ -37,7 +37,7 @@
         "id": 131,
         "app_id": 45,
         "app_unit_id": 134,
-        "banner_id": "/21753324030,23199205258/com.credit.nfc.card.loan.app.cht_Banner",
+        "banner_id": "ca-app-pub-9490496565812282/1369194437",
         "interstitial_id": "/21753324030,23199205258/com.credit.nfc.card.loan.app.cht_Interstitial",
         "rewarded_interstitial_id": "ca-app-pub-3940256099942544/5224354917",
         "rewarded_id": "/21753324030,23199205258/com.credit.nfc.card.loan.app.cht_Rewarded",
